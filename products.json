@@ -1,0 +1,58 @@
+[
+  {
+    "id": "epson_wf_c579r",
+    "badge": "WorkForce Pro",
+    "name": "EPSON WF-C579R",
+    "image": "assets/images/epson_wf_c579r.png",
+    "description": "Professional WorkForce multifunction printer featuring Replaceable Ink Pack System (RIPS) for reduced printing costs. Perfect for modern office environments requiring high-quality document output with minimal intervention.",
+    "specs": {
+      "Print Speed": "24 ipm (Black/Color)",
+      "Resolution": "4800 x 1200 dpi",
+      "Functions": "Print, Scan, Copy, Fax",
+      "Paper Sizes": "Up to A4"
+    }
+  },
+  {
+    "id": "hiti_cs_200e",
+    "badge": "ID Card Printer",
+    "name": "HiTi CS-200e",
+    "image": "assets/images/hiti_cs_200e.png",
+    "description": "Professional on-demand ID card printing system with dye sublimation technology. Delivers YMCKO 400 high-quality prints for ID cards, membership cards, and event badges with professional color accuracy.",
+    "specs": {
+      "Print Speed": "21 seconds per card (YMCKO)",
+      "Print Method": "Dye Sublimation (Direct-to-Card)",
+      "Daily Capacity": "YMCKO 400 prints",
+      "Quality": "Professional Color Printing",
+      "Software": "Free Printing Software Included"
+    }
+  },
+  {
+    "id": "hp_laserjet_m436dn",
+    "badge": "LaserJet MFP",
+    "name": "HP LaserJet MFP M436dn",
+    "image": "assets/images/hp_laserjet_m436dn.png",
+    "description": "Enterprise-class A3 multifunction laser printer for high-volume environments. Combines printing, scanning, and copying in one reliable system optimized for busy office operations.",
+    "specs": {
+      "Print Speed": "Up to 23 ppm (A4 / A3)",
+      "Paper Sizes": "A3, A4, A5, B5",
+      "Duty Cycle": "Up to 50,000 pages",
+      "Functions": "Print, Scan, Copy",
+      "Resolution": "600 x 600 dpi"
+    }
+  },
+  {
+    "id": "epson_wf_c878r",
+    "badge": "Enterprise RIPS",
+    "name": "EPSON WORKFORCE C878R",
+    "image": "assets/images/epson_wf_c878r.png",
+    "description": "Premium enterprise RIPS multifunction printer for professional office environments. Features Replaceable Ink Pack System (RIPS) for cost-efficient operation with professional color printing and exceptional quality.",
+    "specs": {
+      "Print Speed": "24 Prints Per Minute (PPM)",
+      "Print Method": "Pigment Ink with Laser-Like Quality",
+      "Paper Sizes": "Print up to A8+ Papers",
+      "System": "Replaceable Ink Pack System (RIPS)",
+      "Quality": "Professional Color Printing",
+      "First Page Out": "5.5 seconds"
+    }
+  }
+]
